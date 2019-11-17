@@ -10,12 +10,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-/*
- * 1)Усовершенствуйте класс Group добавив возможность     интерактивного добавления объекта. 
- * 2)Реализуйте возможность  сортировки списка студентов    по фамилии.
- * 3)Реализуйте возможность сортировки по параметру (Фамилия, успеваемость и т. д.).
- * 4)Реализуйте интерфейс Военком которые вернет из группы    массив студентов юношей которым больше 18 лет
- */
+
 import java.util.Arrays;
 import java.util.Scanner;
 
